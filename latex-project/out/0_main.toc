@@ -11,8 +11,8 @@
 \contentsline {section}{\numberline {3.1}K-RLE}{7}{section.3.1}%
 \contentsline {section}{\numberline {3.2}LTC}{8}{section.3.2}%
 \contentsline {chapter}{\chapternumberline {4}Тестирование алгоритмов}{10}{chapter.4}%
-\contentsline {chapter}{\chapternumberline {5}Анализ результатов и выводы}{12}{chapter.5}%
-\contentsline {chapter}{Список использованных источников}{14}{section*.6}%
+\contentsline {chapter}{\chapternumberline {5}Анализ результатов и выводы}{13}{chapter.5}%
+\contentsline {chapter}{Список использованных источников}{15}{section*.7}%
 \babel@toc {english}{}\relax 
 \babel@toc {russian}{}\relax 
 \babel@toc {english}{}\relax 

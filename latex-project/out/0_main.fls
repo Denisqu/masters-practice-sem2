@@ -517,6 +517,8 @@ INPUT .\5_chap3.tex
 INPUT .\5_chap3.tex
 INPUT .\5_chap3.tex
 INPUT 5_chap3.tex
+INPUT .\images\spb_dataset.png
+INPUT .\images\spb_dataset.png
 INPUT .\6_chap4.tex
 INPUT .\6_chap4.tex
 INPUT .\6_chap4.tex

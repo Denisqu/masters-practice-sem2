@@ -13,6 +13,8 @@ def create_temperature_stream(multiplier: int, with_timestamps = False):
     saint_petersburg = Point(59.9387, 30.3256, 10) 
     data = Hourly(saint_petersburg, start, end)
     data = data.fetch()
+    data.plot(y=['temp'])
+    plt.show()
     stream = []
     if not with_timestamps:
         for temp in data['temp']:

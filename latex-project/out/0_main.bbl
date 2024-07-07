@@ -57,6 +57,55 @@
       \verb 10.1109/SENSORCOMM.2009.84
       \endverb
     \endentry
+    \entry{ltc_article}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=01e51fb314ec58cff368d05ce753bc00}{%
+           family={Schoellhammer},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=005f21f373264965afbcecbecf049d86}{%
+           family={Greenstein},
+           familyi={G\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4e63ae3c72e0b80faec7c9e815b11ece}{%
+           family={Osterweil},
+           familyi={O\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1d04d9c57a597d559c4b88f918aa4827}{%
+           family={Wimbrow},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=461e9a78a272bc93f1de2bd8bce2c90b}{%
+           family={Estrin},
+           familyi={E\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b3712ae851d47e345d8b44dbe3ce722}
+      \strng{fullhash}{0b3712ae851d47e345d8b44dbe3ce722}
+      \strng{bibnamehash}{0b3712ae851d47e345d8b44dbe3ce722}
+      \strng{authorbibnamehash}{0b3712ae851d47e345d8b44dbe3ce722}
+      \strng{authornamehash}{0b3712ae851d47e345d8b44dbe3ce722}
+      \strng{authorfullhash}{0b3712ae851d47e345d8b44dbe3ce722}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{29th Annual IEEE International Conference on Local Computer Networks}
+      \field{langid}{english}
+      \field{title}{Lightweight temporal compression of microclimate datasets [wireless sensor networks]}
+      \field{year}{2004}
+      \field{pages}{516\bibrangedash 524}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/LCN.2004.72
+      \endverb
+      \keyw{Computer networks}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

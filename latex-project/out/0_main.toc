@@ -4,10 +4,16 @@
 \contentsline {section}{\numberline {2.1}K-RLE}{4}{section.2.1}%
 \babel@toc {english}{}\relax 
 \babel@toc {russian}{}\relax 
-\contentsline {chapter}{\chapternumberline {3}Разработанный код}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}K-RLE}{6}{section.3.1}%
-\contentsline {chapter}{\chapternumberline {4}Тестирование алгоритмов}{8}{chapter.4}%
-\contentsline {chapter}{\chapternumberline {5}Анализ результатов и выводы}{9}{chapter.5}%
-\contentsline {chapter}{Список использованных источников}{10}{section*.4}%
+\contentsline {section}{\numberline {2.2}LTC}{5}{section.2.2}%
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\chapternumberline {3}Разработанный код}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}K-RLE}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}LTC}{8}{section.3.2}%
+\contentsline {chapter}{\chapternumberline {4}Тестирование алгоритмов}{10}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {5}Анализ результатов и выводы}{12}{chapter.5}%
+\contentsline {chapter}{Список использованных источников}{14}{section*.6}%
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {russian}{}\relax 

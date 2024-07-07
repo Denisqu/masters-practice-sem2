@@ -522,6 +522,10 @@ INPUT .\6_chap4.tex
 INPUT .\6_chap4.tex
 INPUT .\6_chap4.tex
 INPUT 6_chap4.tex
+INPUT .\images\krle_test.png
+INPUT .\images\krle_test.png
+INPUT .\images\ltc_test.png
+INPUT .\images\ltc_test.png
 OUTPUT c:\Users\Denis\My Data\masters_other\2 semester\practice-2-sem\masters-practice-sem2\latex-project\out\0_main.toc
 INPUT c:\Users\Denis\My Data\masters_other\2 semester\practice-2-sem\masters-practice-sem2\latex-project\out\0_main.aux
 INPUT c:\Users\Denis\My Data\masters_other\2 semester\practice-2-sem\masters-practice-sem2\latex-project\out\0_main.out

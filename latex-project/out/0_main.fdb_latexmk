@@ -1,24 +1,24 @@
 # Fdb version 4
-["biber out/0_main"] 1720169187.50505 "out/0_main.bcf" "out/0_main.bbl" "out/0_main" 1720187488.65386 0
-  "biba.bib" 1720168379 269 e755ac3464e87de30339e2bab89a125c ""
-  "out/0_main.bcf" 1720187487 153599 d0805f65bc9434a11dfdef6202eb0fe6 "xelatex"
+["biber out/0_main"] 1720356530.65446 "out/0_main.bcf" "out/0_main.bbl" "out/0_main" 1720358598.42313 0
+  "biba.bib" 1720356519 700 d91e344659035720a00d609dcaf76c21 ""
+  "out/0_main.bcf" 1720358597 153665 fe0924df7ce084902b3177a86ad3843c "xelatex"
   (generated)
   "out/0_main.bbl"
   "out/0_main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1720187488.18312 "out/0_main.xdv" "out/0_main.pdf" "out/0_main" 1720187488.66737 0
-  "out/0_main.xdv" 1720187487 77072 f4af6653698d046e139bd5712ab9f528 "xelatex"
+["xdvipdfmx"] 1720358597.75896 "out/0_main.xdv" "out/0_main.pdf" "out/0_main" 1720358598.43545 0
+  "out/0_main.xdv" 1720358597 221156 46d7e7ac47aeb653a9cdf85b80645891 "xelatex"
   (generated)
   "out/0_main.pdf"
   (rewritten before read)
-["xelatex"] 1720187484.11368 "0_main.tex" "out/0_main.xdv" "0_main" 1720187488.65411 0
+["xelatex"] 1720358593.21065 "0_main.tex" "out/0_main.xdv" "0_main" 1720358598.42341 0
   "0_main.tex" 1720013668 18696 e1edcb06bfd10e00a9db20f96b54fa95 ""
   "1_title.tex" 1720013352 1109 f669d572e47f5a1a358a982e0a608097 ""
   "2_intro.tex" 1720168478 553 62aafe5e21d428dfdf399dace49a35bc ""
-  "3_chap1.tex" 1720169433 1543 8b6a33b966033729c7594693ac46de70 ""
-  "4_chap2.tex" 1720187478 3855 60b783c068663e7f2640ee4bb41215c1 ""
-  "5_chap3.tex" 1720013668 66 0c7bff661df5aca704942d213be7c8f2 ""
-  "6_chap4.tex" 1720013664 72 6203601c46e3b48f79246cc299054229 ""
+  "3_chap1.tex" 1720356589 5052 a700057da2378a313d99ce128137e3e7 ""
+  "4_chap2.tex" 1720357575 7475 edc52b46f11566d198bfdb9bc1c39e99 ""
+  "5_chap3.tex" 1720357661 4022 a2754fb1486af6398d97534e7681586c ""
+  "6_chap4.tex" 1720358592 2288 37e2a2d94a7ac60a12504607847d1e97 ""
   "C:/Users/Denis/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1714720251 37546046 cd3b5cebb6c15b459208481d888c07ab ""
   "C:/Users/Denis/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136761454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/Denis/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
@@ -266,11 +266,13 @@
   "C:/Users/Denis/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/Denis/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "images/krle_alg.png" 1720169360 45568 3b919e61d046e9e572bf16484d757879 ""
-  "out/0_main.aux" 1720187487 2783 219693954699d24ad9d34207c410dbd0 "xelatex"
-  "out/0_main.bbl" 1720169235 2169 60d1f96dcaabadda52d13f608cabd344 "biber out/0_main"
-  "out/0_main.out" 1720187487 1497 e20af5ce2a903302a7210684c0475966 "xelatex"
-  "out/0_main.run.xml" 1720187487 2612 4f24b1c6ccc6db5f4fbdaaf8c91e08e2 "xelatex"
-  "out/0_main.toc" 1720187487 899 92c9ad0ca923c2d81d3a50fee0fadd36 "xelatex"
+  "images/krle_test.png" 1720358004 53129 e5bc60a19d33ae4ac0c26d3ea49f5695 ""
+  "images/ltc_test.png" 1720358026 40696 eb6b25aba09e1c94f4f96f2b32bc9a2d ""
+  "out/0_main.aux" 1720358597 4132 48e17d05ded28f462bc463cafdda40e0 "xelatex"
+  "out/0_main.bbl" 1720356533 4162 2664fe574dfab2b6f6a42f84d03bac9e "biber out/0_main"
+  "out/0_main.out" 1720358597 1636 dbc145916d4da15def98f353fddd2d45 "xelatex"
+  "out/0_main.run.xml" 1720358597 2612 4f24b1c6ccc6db5f4fbdaaf8c91e08e2 "xelatex"
+  "out/0_main.toc" 1720358597 1147 27197f075fbd4bd4964fef6c998e3009 "xelatex"
   (generated)
   "out/0_main.aux"
   "out/0_main.bcf"
